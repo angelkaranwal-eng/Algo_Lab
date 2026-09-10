@@ -1,0 +1,1 @@
+"""Algorithm engines implemented as generators for step-by-step UI visualization."""
